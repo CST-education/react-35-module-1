@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/react-35-module-1/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/react-35-module-1/static/js/main.b1a2fc87.chunk.js",
-    "main.js.map": "/react-35-module-1/static/js/main.b1a2fc87.chunk.js.map",
+    "main.css": "/react-35-module-1/static/css/main.a6eece67.chunk.css",
+    "main.js": "/react-35-module-1/static/js/main.4f8affb7.chunk.js",
+    "main.js.map": "/react-35-module-1/static/js/main.4f8affb7.chunk.js.map",
     "runtime-main.js": "/react-35-module-1/static/js/runtime-main.76b01b29.js",
     "runtime-main.js.map": "/react-35-module-1/static/js/runtime-main.76b01b29.js.map",
-    "static/js/2.16e412a1.chunk.js": "/react-35-module-1/static/js/2.16e412a1.chunk.js",
-    "static/js/2.16e412a1.chunk.js.map": "/react-35-module-1/static/js/2.16e412a1.chunk.js.map",
+    "static/css/2.f2512455.chunk.css": "/react-35-module-1/static/css/2.f2512455.chunk.css",
+    "static/js/2.e6b61d43.chunk.js": "/react-35-module-1/static/js/2.e6b61d43.chunk.js",
+    "static/js/2.e6b61d43.chunk.js.map": "/react-35-module-1/static/js/2.e6b61d43.chunk.js.map",
     "index.html": "/react-35-module-1/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/react-35-module-1/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.16e412a1.chunk.js.LICENSE.txt": "/react-35-module-1/static/js/2.16e412a1.chunk.js.LICENSE.txt"
+    "static/css/2.f2512455.chunk.css.map": "/react-35-module-1/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.a6eece67.chunk.css.map": "/react-35-module-1/static/css/main.a6eece67.chunk.css.map",
+    "static/js/2.e6b61d43.chunk.js.LICENSE.txt": "/react-35-module-1/static/js/2.e6b61d43.chunk.js.LICENSE.txt",
+    "static/media/img1.e8f412ba.jpeg": "/react-35-module-1/static/media/img1.e8f412ba.jpeg",
+    "static/media/img2.1ee60f6c.jpeg": "/react-35-module-1/static/media/img2.1ee60f6c.jpeg",
+    "static/media/img3.995a553f.jpeg": "/react-35-module-1/static/media/img3.995a553f.jpeg",
+    "static/media/img4.21ebf31b.jpeg": "/react-35-module-1/static/media/img4.21ebf31b.jpeg",
+    "static/media/img5.462139ab.jpeg": "/react-35-module-1/static/media/img5.462139ab.jpeg",
+    "static/media/img6.3e3be511.jpeg": "/react-35-module-1/static/media/img6.3e3be511.jpeg",
+    "static/media/sprite.c30c2175.svg": "/react-35-module-1/static/media/sprite.c30c2175.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.76b01b29.js",
-    "static/js/2.16e412a1.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.b1a2fc87.chunk.js"
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.e6b61d43.chunk.js",
+    "static/css/main.a6eece67.chunk.css",
+    "static/js/main.4f8affb7.chunk.js"
   ]
 }
