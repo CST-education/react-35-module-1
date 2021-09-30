@@ -1,0 +1,15 @@
+.gallerySection {
+  background-color: ivory;
+}
+
+/* вынесем набор частоиспользуемых свойств в отдельный селектор */
+.flex-rw {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+/* используем его через composes - аналог mixins in SCSS */
+.galleryList {
+  composes: flex-rw;
+  align-items: center;
+}

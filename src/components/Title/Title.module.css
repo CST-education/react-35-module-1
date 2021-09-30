@@ -1,0 +1,26 @@
+@value mainFs from "../../styles/variables.module.css";
+@value mainFw from "../../styles/variables.module.css";
+@value mainFst from "../../styles/variables.module.css";
+
+/* @value main-fw from ''
+@value main-fst from '' */
+
+/* модульность распространяется только на селекторы классов */
+.title::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 10px;
+  background-color: black;
+}
+/* на все остальные селекторы не распространяется */
+h2 {
+  color: red;
+  font-size: mainFs;
+  font-weight: mainFw;
+  font-style: mainFst;
+}
+
+:global(.titleWrapper) {
+  border: 2px solid red;
+}
